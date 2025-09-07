@@ -1,6 +1,8 @@
 # MNIST Handwritten Digits Classification using CNN (PyTorch)
 
-**Jupyter Notebook:** [Open Notebook](https://colab.research.google.com/drive/1K0fwgnNoSipwTG1xtwSJOIaUmilcT5UB?usp=sharing)
+**Jupyter Notebook:** [Open Notebook](https://colab.research.google.com/drive/1K0fwgnNoSipwTG1xtwSJOIaUmilcT5UB?usp=sharing) 
+
+**Jupyter Notebook:** [Open Notebook](https://colab.research.google.com/drive/1K0fwgnNoSipwTG1xtwSJOIaUmilcT5UB?usp=sharing) 
 
 ## Overview
 This project demonstrates building, training, and evaluating a **Convolutional Neural Network (CNN)** on the MNIST dataset using **PyTorch**. The model can classify handwritten digits (0-9) and supports predictions on custom images.
